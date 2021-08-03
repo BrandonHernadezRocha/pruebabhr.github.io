@@ -1,3 +1,8 @@
+// @ts-nocheck
+import {
+  getAuth,
+  getFirestore
+} from "../lib/fabrica.js";
 import {
     cod,
     muestraError
