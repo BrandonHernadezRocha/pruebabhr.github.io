@@ -31,7 +31,6 @@ import {
         "submit", guarda);
     }
   }
-  
   /** @param {Event} evt */
   async function guarda(evt) {
     try {
